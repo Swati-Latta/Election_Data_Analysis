@@ -33,5 +33,5 @@
 <br>
 
 #  <img src="https://user-images.githubusercontent.com/108053296/185756908-fbb62168-d923-48f2-992f-b8e2fde848fe.gif" width="48" height="48" > Dashboard
-<img src="https://github.com/piyushpsinghh/Election_Candidate_Analysis/blob/main/static/dashboard.png">
+![image](https://github.com/Swati-Latta/Election_Data_Analysis/assets/134490572/66ca9001-4844-45f1-a3d1-f23b2849e804)
 <br>
