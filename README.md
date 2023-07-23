@@ -35,3 +35,30 @@
 #  <img src="https://user-images.githubusercontent.com/108053296/185756908-fbb62168-d923-48f2-992f-b8e2fde848fe.gif" width="48" height="48" > Dashboard
 ![image](https://github.com/Swati-Latta/Election_Data_Analysis/assets/134490572/66ca9001-4844-45f1-a3d1-f23b2849e804)
 <br>
+
+# <img src=https://user-images.githubusercontent.com/106439762/178428775-03d67679-9aa4-4b08-91e9-6eb6ed8faf66.gif  width="48" height="48"> Insights 
+   
+    o  Contesting Candidate Disparity: Only 10% of total Contesting Candidate have filed nominations from Zila Parishad constituency  
+    
+    o  Gender Balance: The distribution of male candidates is slightly higher (around 3%) than female candidates. Empowerment 
+       initiatives can be explored to enhance female representation in politics and bridge the gender gap.
+     
+    o  ST Category: Surprisingly, the gender distribution in the ST category is opposite to the overall average, with more
+       female candidates. 
+    
+    o  Inclusivity for Other Genders: Although less represented, address the concerns and challenges faced by the "other" gender 
+       category, striving for an inclusive and diverse political landscape.
+    
+    o  Zila Parishad Party Equilibrium: In the Zila Parishad constituency, both BJP and AITC enjoy an equal weight in terms of 
+       representation. 
+    
+    o  Panchayat Constituency Affiliation: AITC has a higher number of candidates in the Panchayat Samiti constituency. 
+   <br>
+   <br>
+
+     
+   #  <img src=https://user-images.githubusercontent.com/106439762/178803205-47a08ce7-2187-4f96-b301-a2b68690619a.gif width="48" height="48" > Future Scope
+   
+1  **Women in Politics:** Investigate the representation of women candidates and their success rates in the elections.Future scope involves advocating for increased women's representation and gender equality in politics.
+
+2  **Youth Participation and Voter Awareness:** Study the involvement of young voters in the elections and their impact. Assess the effectiveness of voter awareness campaigns and the role of educational institutions in encouraging voter participation. The future scope lies in promoting youth engagement in politics and civic activities.
