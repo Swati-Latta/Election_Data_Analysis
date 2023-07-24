@@ -4,7 +4,11 @@
 **To build an end-to-end data analyst project that involves direct data scraping from the West Bengal Election Commission's website (https://portal.wbsec.org/), data cleaning, and transformation in Python using NumPy and Pandas. The project further aims to utilize Power BI to fetch and visualize the data from the MySQL database, creating an interactive dashboard to present key insights into contesting candidates' information, constituency distribution, candidate demographics, political party affiliations, and other relevant details..**
 
 <br>
-<br>
+
+# **Overview:**
+
+**This project focuses on web scraping data from the West Bengal Election Commission website for Zilla Parishad and Panchayat Samity elections. The scraped data will be cleaned and analyzed using Pandas for Exploratory Data Analysis (EDA). Additionally, a Power BI dashboard will be created to visualize the insights and key performance indicators (KPIs).**
+
 
 
 # <img src="https://user-images.githubusercontent.com/106439762/181935629-b3c47bd3-77fb-4431-a11c-ff8ba0942b63.gif" width="48" height="48"> **User's Manual**
